@@ -1,0 +1,25 @@
+use_frameworks!
+
+target 'Demo Client (iOS)' do
+  platform :ios, '14.0'
+
+  pod 'Memo', :path => '../'
+end
+
+target 'Demo Client (macOS)' do
+  platform :osx, '11.0'
+
+  pod 'Memo', :path => '../'
+end
+
+target 'Demo Server (iOS)' do
+  platform :ios, '14.0'
+
+  pod 'Memo', :path => '../'
+end
+
+target 'Demo Server (macOS)' do
+  platform :osx, '11.0'
+
+  pod 'Memo', :path => '../'
+end

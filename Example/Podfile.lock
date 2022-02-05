@@ -1,0 +1,16 @@
+PODS:
+  - Memo (0.1.0)
+
+DEPENDENCIES:
+  - Memo (from `../`)
+
+EXTERNAL SOURCES:
+  Memo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Memo: 96779a0784e3a4afcdd307157247fad4e40e348a
+
+PODFILE CHECKSUM: 2acc1059d3dd3fa516efa0e753d3da62bba18572
+
+COCOAPODS: 1.10.1
